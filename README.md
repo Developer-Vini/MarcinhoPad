@@ -28,6 +28,7 @@ The case is 3D-printed in two parts (base + lid). See `production/case/` for STL
 ![BASE](docs/Images/CASE-BASE.png)
 ![TOPO](docs/Images/CASE-TOP.png)
 
+![FINAL-CASE](docs/Images/final-case.png)
 I couldn't place the 3D model of the PCB with the components inside the case because I wasn't able to export the 3D models in KiCad.
 
 # Bill of Materials
