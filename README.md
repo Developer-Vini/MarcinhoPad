@@ -52,5 +52,5 @@ I couldn't place the 3D model of the PCB with the components inside the case bec
 
 ## Firmware
 
-The firmware is written in KMK for CircuitPython. See the `Firmware/` folder for source files. The compiled `firmware.uf2` should be placed in `production/` before submission (requires CircuitPython installation on the XIAO RP2040).
+The firmware is written in KMK for CircuitPython.
 
