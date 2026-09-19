@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D2, D3, D4, D5, D6",D_DO-35_SOD27_P7.62mm_Horizontal,6,1N4148,
+R1,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,1,330R,
+"SW1, SW2, SW3, SW4, SW5, SW6",SW_Cherry_MX_1.00u_PCB,6,SW_Push_45deg,
+SW10,RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm,1,RotaryEncoder_Switch,
+U1,XIAO-Generic-Hybrid-14P-2.54-21X17.8MM,1,MOUDLE-SEEEDUINO-XIAO,
+U2,ER_OLEDM0.91_1x-I2C,1,ER_OLEDM0.91_1x-I2C,

@@ -1,0 +1,30 @@
+# KiCad project files
+# Source files (schematic, PCB, project) ARE tracked - they are the design source.
+# Only auto-generated/local artifacts are ignored below.
+
+# Lock files (created while a file is open in KiCad)
+*.kicad_pcb.lck
+*.kicad_pro.lck
+*.kicad_sch.lck
+
+# KiCad local history (per-user backup snapshots)
+.history/
+
+# Backup files
+*-backups/
+*-save/
+
+# Cache files
+fp-info-cache
+fp-lib-table.bak
+
+# Temporary files
+*.tmp
+*~
+temp-freerouting.dsn
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
