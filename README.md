@@ -18,6 +18,9 @@ MarcinhoPad is a compact macro keyboard built around a Seeed XIAO RP2040. It fea
 
 ### PCB
 ![PCB](docs/Images/PCB.png)
+![PCB](docs/Images/PCB_pe.png)
+![PCB_NOT](docs/Images/PCB_FRONT.png)
+![PCB_BACK](docs/Images/PCB_BACK.png)
 
 ### Schematic
 ![Schematic](docs/Images/SCHEME.png)
@@ -29,7 +32,10 @@ The case is 3D-printed in two parts (base + lid). See `production/case/` for STL
 ![TOPO](docs/Images/CASE-TOP.png)
 
 ![FINAL-CASE](docs/Images/final-case.png)
+
+![case_full](docs/Images/case_full.png)
 I couldn't place the 3D model of the PCB with the components inside the case because I wasn't able to export the 3D models in KiCad.
+
 
 # Bill of Materials
 

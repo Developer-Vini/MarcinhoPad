@@ -3212,6 +3212,17 @@
 			(uuid "32f23986-1853-42e2-9597-b5f2aba609b7")
 		)
 		(embedded_fonts no)
+		(model "${KICAD10_3DMODEL_DIR}/ES32-C$/Seeed Studio XIAO-ESP32-C3.step"
+			(offset
+				(xyz 6 -1.5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 90 -180 90)
+			)
+		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
@@ -3497,15 +3508,15 @@
 			(uuid "66b75442-812f-49df-b77a-cd0e952dd058")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "C:/Users/Vinicius/Downloads/mxstp.stp"
 			(offset
-				(xyz 0 0 0)
+				(xyz -2.5 -5 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -3793,15 +3804,15 @@
 			(uuid "f926cfe7-e8b4-40fa-bcf3-7352da8654cf")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "C:/Users/Vinicius/Downloads/mxstp.stp"
 			(offset
-				(xyz 0 0 0)
+				(xyz -2.5 -5 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -4089,15 +4100,15 @@
 			(uuid "a0a7ef20-acfa-4f63-ac7d-b89c035a0004")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "C:/Users/Vinicius/Downloads/mxstp.stp"
 			(offset
-				(xyz 0 0 0)
+				(xyz -2.5 -5 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -4632,15 +4643,15 @@
 			(uuid "f4a2ed12-efea-477f-8a56-c8f558c7e4c8")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Rotary_Encoder.3dshapes/RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm.step"
+		(model "${KICAD10_3DMODEL_DIR}/Rotary_Encoder.3dshapes/EC11_Rotary_Encoder_Switched.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz 7.5 -2.5 -0.5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 90)
 			)
 		)
 	)
@@ -4928,15 +4939,15 @@
 			(uuid "6ce47d45-a1a3-423e-8634-491d2e499ba0")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "C:/Users/Vinicius/Downloads/mxstp.stp"
 			(offset
-				(xyz 0 0 0)
+				(xyz -2.5 -5 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -5224,15 +5235,15 @@
 			(uuid "118635ed-9257-456c-88b9-7ec26e6f6252")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "C:/Users/Vinicius/Downloads/mxstp.stp"
 			(offset
-				(xyz 0 0 0)
+				(xyz -2.5 -5 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -5626,15 +5637,15 @@
 			(uuid "8fb50983-3907-4f67-8572-aca5bcfe810e")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "C:/Users/Vinicius/Downloads/mxstp.stp"
 			(offset
-				(xyz 0 0 0)
+				(xyz -2.5 -5 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -5856,15 +5867,15 @@
 			(uuid "69aef4f1-0e09-4d10-934d-98d52f8caf83")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Display.3dshapes/ER_OLEDM0.91_1x-I2C.step"
+		(model "${KICAD10_3DMODEL_DIR}/hackclub.shapes/OLED 128 x 32 Display Assembly.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz 4 -17.5 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 90)
 			)
 		)
 	)
